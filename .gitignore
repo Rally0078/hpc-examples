@@ -1,0 +1,6 @@
+*.out
+
+*mainscript.txt
+*output.txt
+*error.txt
+README.hidden.md

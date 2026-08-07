@@ -3,7 +3,7 @@ To use SSH tunneling to access Dask dashboard
 ```bash
 ssh -N -L 8787:nodeX:8787 username@hpc-login-addr.net
 ```
-Replace X with the appropriate node number, username and hpc login with the correct details
+Replace nodeX with the appropriate node hostname, username and hpc login with the correct details
 
 To compile C
 
